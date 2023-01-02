@@ -34,6 +34,7 @@ class Tictactoe:
     def _emptySlots(self):
         """Helper method to print empty slots for user to choose from."""
         count = 0
+        print("\nAvailable moves:")
         for key in self.board.keys():
             if self.board[key] == " ":
                 print(key)
