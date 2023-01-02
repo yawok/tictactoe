@@ -1,4 +1,4 @@
-# Read Me Template
+# Tic-tac-toe 🎮
 
 
 ![Project Image 2](imgs/play.png)
