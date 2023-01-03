@@ -71,5 +71,6 @@ SOFTWARE.
 ## Author Info
 
 - Twitter - [@obengky](https://twitter.com/obengky)
+- LinkedIn - [Kenneth Yaw Obeng](https://www.linkedin.com/in/yawok/)
 
 [Back To The Top](#read-me-template)
